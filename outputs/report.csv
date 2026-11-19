@@ -1,0 +1,6 @@
+status,recipient,subject,reminder_id,type,scheduled_time
+DRY_RUN,alice@example.com,Webinar Reminder: Python Automation,1,Webinar,2026-11-20 10:00
+DRY_RUN,bob@example.com,Meeting Reminder: Quarterly Review,2,Meeting,2026-11-20 14:00
+DRY_RUN,charlie@example.com,Payment Reminder: Invoice #1024,3,Payment,2026-11-21 09:00
+DRY_RUN,dana@example.com,Follow-up: Product Demo,4,Follow-up,2026-11-21 11:00
+DRY_RUN,evan@example.com,Task Alert: Report Due,5,Task,2026-11-21 16:00

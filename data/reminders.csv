@@ -1,0 +1,6 @@
+reminder_id,contact_id,type,subject,message,scheduled_time
+1,1,Webinar,Webinar Reminder: Python Automation,"Hi {{name}}, your webinar starts tomorrow at 10 AM.",2026-11-20 10:00
+2,2,Meeting,Meeting Reminder: Quarterly Review,"Hi {{name}}, please join the quarterly review at 2 PM.",2026-11-20 14:00
+3,3,Payment,Payment Reminder: Invoice #1024,"Hi {{name}}, this is a friendly reminder to submit your payment.",2026-11-21 09:00
+4,4,Follow-up,Follow-up: Product Demo,"Hi {{name}}, thank you for attending the demo. Let us know your feedback.",2026-11-21 11:00
+5,5,Task,Task Alert: Report Due,"Hi {{name}}, your weekly report is due tomorrow.",2026-11-21 16:00

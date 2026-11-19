@@ -1,0 +1,6 @@
+contact_id,name,email,company,role
+1,Alice Johnson,alice@example.com,Acme Training,Student
+2,Bob Smith,bob@example.com,Bright HR,HR Manager
+3,Charlie Lee,charlie@example.com,CodeOps,Operations Lead
+4,Dana Patel,dana@example.com,SalesPro,Sales Executive
+5,Evan Ross,evan@example.com,FinEdge,Finance Analyst

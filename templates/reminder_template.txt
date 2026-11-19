@@ -1,0 +1,9 @@
+Subject: {{subject}}
+
+Hello {{name}},
+
+{{message}}
+
+Best regards,
+Automation Team
+{{company}}
